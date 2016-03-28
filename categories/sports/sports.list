@@ -537,7 +537,7 @@
 <motorcycle racing> 30 
 <formula 1> 30 
 <indy car> 30 
-<nascar> 30 
+<nascar> 30 90
 /speed(st|wa|y)|corvette|rac[eiy]|wrest|harley|motorcycle|nascar/ 500
 
 #Olympics
