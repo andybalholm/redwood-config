@@ -3,7 +3,6 @@
 
 /(rock|pop|jazz|rap|punk).*(cult|roll|geek|drum|music|history|band)/ 500
 
-< music > 5 
 <record label> 5 
 <recording artist> 5 
 < lyrical > 10 

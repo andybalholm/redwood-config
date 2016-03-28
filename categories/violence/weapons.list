@@ -22,8 +22,6 @@
 < bolt action > 10 
 <bomb building> 70 
 < bren ten > 10 
-< bullet > 15 
-< bullets > 15 
 < caliber > 10 
 < calibers > 10 
 < carbine > 10 
@@ -40,7 +38,6 @@
 < garotte > 10 
 < garrote > 15 
 < glock > 10 
-< gun > 15 
 <gun making> 70 
 < gun powder > 10 
 < gunpowder > 10 

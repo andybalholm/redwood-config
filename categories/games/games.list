@@ -1,7 +1,7 @@
 # Phraselists to block gaming websites 
 # Originally created by Fernand Jonker
 
-< games> 10 
+< games> 10 100
 < puzzles> 10 
 <online game> 40 
 <multiplayer> 30 
