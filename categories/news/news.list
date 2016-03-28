@@ -21,14 +21,13 @@
 <newscast> 20 
 
 <news report> 30 
-<national news> 50 
+<national news> 50
 <news article> 30 
 
 <breaking news> 70 
 <latest news> 40 320
 
 <business news> 30 
-<national news> 70 
 
 <canadian press> 40 
 <reuters> 40 
