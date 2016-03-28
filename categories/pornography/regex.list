@@ -9,7 +9,28 @@ default 500
 /(male|m[ae]n|boy|girl|beaut|agen[ct]|glam).*(model|talent)/
 
 # The following will help to block explicit media files (images and video)
-/(sex|fuck|boob|cunt|fetish|tits|anal|hooter|asses|shemale|submission|porn|xxx|busty|knockers|slut|nude|naked|pussy).*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/(girls|babes|bikini|model).*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/anal\b.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/asses.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/boob.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/busty.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/cunt.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/fetish.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/fuck.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/hooter.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/knockers.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/naked.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/nude.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/porn.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/pussy.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/sex.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/shemale.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/slut.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/tits.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/xxx.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+
+/babes.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/bikini.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/girls.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/model.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 
 /naturism|naturist|nude|nudist|nudism|nekkid|nakt|naakt/
