@@ -4,7 +4,7 @@
 
 /news(watch|pap|cast)|herald|sentinel|courier|gazet|tribune|chronicle|(daily|ning)news/ 500
 
-<cnn.com> 100 
+<cnn.com> 10
 <local news> 30 
 
 <top stories> 40 
