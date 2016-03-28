@@ -1,7 +1,6 @@
 # Phraselists to block web-based translation services since they can be used as proxies or to invent foreign language search terms.
 # Originally Created by Fernand Jonker
 
-<translate > 30 
 <translation service> 100 
 <text translator> 50 
 <translate text> 50 
