@@ -3,7 +3,6 @@
 # Created to limit access to ID theft tutorial sites. 
 # Hope it doesn't overblock ID theft prevention sites.
 
-<false id> 30 
 <fake id> 30 
 <change your identit> 30 
 <whole new identit> 30 
