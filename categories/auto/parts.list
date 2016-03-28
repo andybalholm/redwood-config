@@ -77,3 +77,12 @@
 < rebuil> 20
 <transmission> 10
 <engine> 10
+<brakes> 20
+< clutch> 10
+<driveline> 20
+<ignition> 20
+<steering> 20
+<suspension> 20
+<vehicle lookup> 20
+< part search> 20
+<federal mogul> 20
