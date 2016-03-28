@@ -1,6 +1,7 @@
 default 500
 
 /google\..*tbm=(isch|vid)/
+google.com/imghp
 
 bing.com/images
 bing.com/videos
