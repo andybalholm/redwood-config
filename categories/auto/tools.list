@@ -6,6 +6,7 @@
 <infrared thermometer> 20
 < ratchet> 20
 <cordless> 10
+< corded> 10
 <lithium ion> 10
 <variable speed> 20
 <battery pack> 10
@@ -23,3 +24,17 @@
 < ohmmeter> 20
 <test lead> 20
 <alligator clip> 20
+<nibbler> 20
+< collet> 20
+<polisher> 20
+< crimper> 20
+<bandsaw> 20
+< snips > 20
+< hoist> 10
+<metalworking> 20
+<screwdriver> 20
+<carbide> 20
+< sanding> 20
+< pliers> 20
+< drill> 10
+<hydraulic> 20

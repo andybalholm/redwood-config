@@ -44,6 +44,7 @@
 < gun range > 15 
 < gunrange > 15 
 < guns > 15 
+<heat guns> -15
 < gunshop > 15 
 < gunsmith > 15 
 < gunsmithing > 15 
@@ -53,7 +54,6 @@
 < heckler kock > 10 
 < kahr > 10 
 < knife > 15 
-< knives > 15 
 < m16 > 10 
 < mac10 > 10 
 < machine gun > 10 
