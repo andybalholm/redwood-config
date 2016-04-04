@@ -32,7 +32,6 @@
 < dildo > 50
 < dildos > 40
 < fellatio > 10
-< gay > 5
 < glamour model> 30
 < hardcore > 10
 < hardon> 30
@@ -48,7 +47,7 @@
 < newd > 30
 < newds> 30
 < newdz> 30
-< nude> 10
+< nude> 10 60
 < nudes> 10
 < nudes> 30
 < nudie> 10
@@ -62,7 +61,6 @@
 < piss flaps > 50
 < porn> 10
 < putas> 50
-< rape> 5
 < rated x > 20
 < ratedx > 20
 < raunchy > 10
@@ -104,7 +102,7 @@
 < whore > 10
 < whores > 10
 < whoring > 10
-< xxx > 20
+< xxx > 20 100
 < xxxx > 40
 <" dong> 50
 <10" cock> 70  
@@ -293,7 +291,7 @@
 <ass full of jizz> 80
 <ass humper> 60
 <ass humping> 60
-<ass master> 50
+< ass master> 50
 <ass open wide> 80
 <ass pounding> 80
 <ass rammed> 80
@@ -349,7 +347,7 @@
 <banging a girl> 40
 <banned in the usa> 30
 <banned incest> 60
-<banned> 5
+< banned > 5 60
 <barely legal babes> 50
 <barely legal boys> 40
 <barely legal> 40
@@ -417,7 +415,7 @@
 <birching> 10
 <bisexual fetish> 40
 <bisexual> 10
-<bitch> 10
+< bitch> 10 80
 <bitches eating pussy> 80
 <bizzare fuck> 60
 <bizzare sex> 80
@@ -891,9 +889,8 @@
 <erotic talk> 50
 <erotic teen> 70
 <erotic toys> 80
-<erotic> 10
 <erotica guide> 70
-<erotica> 60
+< erotica > 60
 <escort agency> 20
 <escort directory> 40
 <escort service> 20
@@ -1559,8 +1556,8 @@
 <jerk ball> 30
 <jerking rod> 60
 <jilling off> 60
-<jism> 30
-<jizm> 30
+< jism > 30
+< jizm > 30
 <jizz all over> 80
 <jizz angel> 50
 <jizz burping> 70
@@ -1582,7 +1579,7 @@
 <jizz suck> 80
 <jizz swallow> 80
 <jizz thirsty> 80
-<jizz> 20
+< jizz > 20
 <jizzloving> 70
 <join now> 10
 <juicing a woody> 70
@@ -1926,7 +1923,7 @@
 <nude celebrit> 80
 <nude celebs> 80
 <nude for you> 50
-<nude girl> 40
+<nude girl> 40 100
 <nude image> 50
 <nude in public> 40
 <nude lolita> 80
@@ -2122,7 +2119,7 @@
 <porno ezine> 20
 <porno membership> 80
 <porno pass> 60
-<porno> 20
+<porno> 10 100
 <pornographic> 20
 <porno-pass> 60
 <pornostar> 20
@@ -2305,7 +2302,6 @@
 <saigon sluts> 60
 <satisfy your fetish> 80
 <scantily> 10
-<scat > 30
 <scat fantas> 40
 <scat fun> 50
 <scat mpeg> 70
@@ -2355,7 +2351,7 @@
 <sex pictures> 50
 <sex ring> 40
 <sex scene> 40
-<sex shop> 80
+< sex shop> 20 80
 <sex show> 30
 <sex site> 20
 <sex slave> 30
@@ -2388,7 +2384,7 @@
 <sexologist> 5
 <sexology> 5
 < sexplore> 10
-<sexshop> 80
+< sexshop> 40 80
 <sexswap2000.com> 80
 <sextoy> 20
 <sextracker> 80
@@ -2891,7 +2887,6 @@
 <voyeur> 5
 <voyeurcam> 80
 <voyuer dorm> 80
-<vulgar> 3
 <vulva> 5
 <wad of cum> 80
 <wad of jizz> 80
@@ -3081,7 +3076,5 @@
 <sexy lady> 20
 <maxim girl> 70
 <hot stars> 20
-<nsfw> 150 #Abbreviation for Not Safe For Work
-<not safe for work> 150
-
-
+< nsfw > 50 #Abbreviation for Not Safe For Work
+< dictionary > -500

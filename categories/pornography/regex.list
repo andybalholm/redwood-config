@@ -1,36 +1,34 @@
 default 500
 
-/(big|cyber|hard|huge|mega|small|soft|super|tiny|bare|naked|nude|anal|oral|topp?les|sex|phone).*(anal|babe|bharath|boob|breast|busen|busty|clit|cum|cunt|dick|fetish|fuck|girl|hooter|lez|lust|naked|nude|oral|orgy|penis|porn|porno|pupper|pussy|rotten|sex|shit|smutpump|teen|tit|topp?les|xxx)/
-/(anal|babe|bharath|boob|breast|busen|busty|clit|cum|cunt|dick|fetish|fuck|girl|hooter|lez|lust|naked|nude|oral|orgy|penis|porn|porno|pupper|pussy|rotten|sex|shit|smutpump|teen|tit|topp?les|xxx).*(big|cyber|hard|huge|mega|small|soft|super|tiny|bare|naked|nude|anal|oral|topp?les|sex)/
+/( naked| nude| anal | oral| topp?les| sex).*(anal |bharath|breast|busen|busty| clit| cum | cunt|dick|fetish| fuck|hooter|naked| nude | oral| orgy| penis| porn| pupper| pussy| rotten| sex | shit | smutpump|topp?les| xxx )/
+
+/( anal | bharath| boob| breast| busen| busty| clit| cum | cunt | fetish| fuck| hooter| naked| nude| orgy | penis| porn| pupper| pussy| rotten| sex | shit | smutpump| topp?les| xxx ).*( sex )/
 
 /adultsight|adultsite|adultsonly|adultweb|blowjob|bondage|centerfold|cumshot|cyberlust|cybercore|hardcore|masturbat/
 /bangbros|pussylip|playmate|pornstar|sexdream|showgirl|softcore|striptease/
 /incest|obscene|pedophil|pedofil/
-/(male|m[ae]n|boy|girl|beaut|agen[ct]|glam).*(model|talent)/
 
 # The following will help to block explicit media files (images and video)
 /anal\b.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/asses.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/boob.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/busty.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/cunt.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/\basses.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/\bcunt\b.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /fetish.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /fuck.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /hooter.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /knockers.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /naked.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/nude.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /porn.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /pussy.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/sex.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /shemale.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/slut.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/tits.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/xxx.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 
-/babes.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/bikini.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/girls.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/model.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/naturism|naturist|\bnude\b|nudist|nudism|nekkid|\bnakt\b|\bnaakt\b/
 
-/naturism|naturist|nude|nudist|nudism|nekkid|nakt|naakt/
+# reduce sensitivity for google mail
+/mail\.google/ -500
+
+# avoid blocking *.js files falsely marked as being text
+/.*\.js/ -3000
+
+# avoid blocking ad blockers block lists
+/adtidy\.org/ -5000
+

@@ -18,7 +18,6 @@
 <proxy_url> 40 
 <proxy_options> 30 
 <proxyshout> 100 
-<proxy.com> 100 
 
 #Surrogafier
 < surrogafy> 100 
@@ -59,7 +58,6 @@
 #General Proxy Lists & Proxy Terms
 <keep your identity hidden> 50 
 <high anonymity> 30 
-< proxies> 30 
 <public prox> 30 
 <proxy list> 20 
 <unblock websites> 40 
