@@ -7,8 +7,6 @@
 < biguns > 20
 < boff > 5
 < boob> 10
-< bra > 2
-< bras > 2
 < bugger > 5
 < butt > 10
 < churd > 10
@@ -41,22 +39,21 @@
 < lesbian > 10
 < lesbiana > 30
 < lesbo > 30
+< model> 20 60
 < milf > 80
 < nasty > 10
 < negligee > 10
-< newd > 30
 < newds> 30
 < newdz> 30
-< nude> 10 60
-< nudes> 10
-< nudes> 30
-< nudie> 10
+< nude> 10 40
+#< nudie> 10
 < nudity> 20
 < nympho > 30
 < nymphos > 30
 < orgies > 30
 < orgy > 30
 < penis > 10
+< penthouse > 10 60
 < piss > 5
 < piss flaps > 50
 < porn> 10
@@ -78,7 +75,7 @@
 < scat video> 80
 < see thru> 10
 < semen> 5
-< sex > 3
+< sex > 3 50
 < sex factory> 80
 < sexo > 20
 < sheer > 10
@@ -98,6 +95,7 @@
 < topless> 20
 < twat > 10
 < upskirt > 70
+< venus > 10 60
 < wank> 10
 < whore > 10
 < whores > 10
@@ -1186,6 +1184,7 @@
 <full of jizz> 80
 <fun with feces> 60
 <funbags> 20
+< gallery > 10 60
 <gang bang> 30
 <gangbang girl> 40
 <gangbang model> 40
@@ -1341,7 +1340,6 @@
 <hentai porn> 80
 <hentai sex> 80
 <hentai studios> 70
-<hentai> 30
 <her fat ass> 30
 <hermaphrodite> 20
 <herpes simplex> 5
@@ -1672,7 +1670,6 @@
 <licking whore> 70
 <lifestyle without clothes> 20
 <like to suck> 20
-<lingerie> 5
 <lips around huge cock> 80
 <little girl sex> 50
 <little lolita> 80
@@ -1865,7 +1862,7 @@
 <naked online> 70
 <naked young kiddy> 80
 <naked young> 30
-<naked> 10
+< naked > 10 40
 <nakled and spread> 50
 <nastiest and youngest> 80
 <nastiest sex> 40
@@ -2042,7 +2039,7 @@
 <permit any minor to see this material> 50
 <permit any minor to see this site> 50
 <permit any minor to see this web> 50
-<perversion> 10
+< perversion > 10 40
 <perversity> 10
 <pervert> 10
 <petite latina> 40
@@ -2456,6 +2453,7 @@
 <shoot cum > 60
 <shoot your load> 60
 <shooting off> 30
+< shooting > 10 60
 <should not be accessed by anyone who is younger than 18> 80
 <shove both fists> 50
 <show pussy> 50
@@ -2789,7 +2787,7 @@
 <top heavy babe> 60
 <topless photo> 80
 <topless pics> 80
-<toplist> 10
+#<toplist> 10
 <torture sex> 60
 <tortured pussies> 50
 <totally nude> 60
@@ -2929,7 +2927,7 @@
 <were over the age of 21 years at the time they were photographed> 80
 <wet and horny> 70
 <wet facial> 70
-<wet n wild> 50
+< wet n wild > 20 40
 <wet panties> 50
 <wet panty> 50
 <wet pussies> 40
@@ -3077,4 +3075,8 @@
 <maxim girl> 70
 <hot stars> 20
 < nsfw > 50 #Abbreviation for Not Safe For Work
+
+# negative values
 < dictionary > -500
+< news > -10
+

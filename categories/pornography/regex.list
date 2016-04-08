@@ -1,12 +1,19 @@
 default 500
 
-/( naked| nude| anal | oral| topp?les| sex).*(anal |bharath|breast|busen|busty| clit| cum | cunt|dick|fetish| fuck|hooter|naked| nude | oral| orgy| penis| porn| pupper| pussy| rotten| sex | shit | smutpump|topp?les| xxx )/
+/( naked| nude | anal | oral| topp?les| sex).*(bharath|breast|busen|busty| clit| cum | cunt|dick|fetish| fuck|hooter| orgy| penis| porn| pupper| pussy| rotten| shit | smutpump| xxx )/p
 
-/( anal | bharath| boob| breast| busen| busty| clit| cum | cunt | fetish| fuck| hooter| naked| nude| orgy | penis| porn| pupper| pussy| rotten| sex | shit | smutpump| topp?les| xxx ).*( sex )/
+/( anal | bharath| boob| breast| busen| busty| clit| cum | cunt | fetish| fuck| hooter| naked| nude| orgy | penis| porn| pupper| pussy| rotten| sex | shit | smutpump| topp?les| xxx ).*( sex )/p
 
 /adultsight|adultsite|adultsonly|adultweb|blowjob|bondage|centerfold|cumshot|cyberlust|cybercore|hardcore|masturbat/
 /bangbros|pussylip|playmate|pornstar|sexdream|showgirl|softcore|striptease/
 /incest|obscene|pedophil|pedofil/
+
+# non blocking counters
+/naturism|naturist|\bnude|nudist|nudism|nekkid|\bnackt|\bnaakt/p 50
+/naturism|naturist|\bnude|nudist|nudism|nekkid|\bnackt|\bnaakt/h 50
+/\bpenthouse/p  50
+/\bmodel/p  50
+/\bshooting/p  50
 
 # The following will help to block explicit media files (images and video)
 /anal\b.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
@@ -14,14 +21,12 @@ default 500
 /\bcunt\b.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /fetish.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /fuck.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/hooter.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/\bhooter.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /knockers.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /naked.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/porn.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/porn.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/p
 /pussy.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /shemale.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-
-/naturism|naturist|\bnude\b|nudist|nudism|nekkid|\bnakt\b|\bnaakt\b/
 
 # reduce sensitivity for google mail
 /mail\.google/ -500
@@ -29,6 +34,6 @@ default 500
 # avoid blocking *.js files falsely marked as being text
 /.*\.js/ -3000
 
-# avoid blocking ad blockers block lists
+# avoid blocking ad blockers block lists # should better go to ads category
 /adtidy\.org/ -5000
 

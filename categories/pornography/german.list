@@ -6,9 +6,9 @@
 <analsex> 80 
 <analtherapie> 20 
 < arsch> 20 
-<bumsen> 30 
-<busen> 20 
-<devot > 20 
+< bumsen > 30 
+#<busen> 20 
+#<devot > 20 
 <dildo> 50 
 <dreilochstute> 80 
 <durchgefickt> 40 
@@ -17,7 +17,7 @@
 < erotik > 20 80
 <erotikseite> 60 
 <erotikshop> 60 
-<fick> 30 
+< fick> 30 60
 <ficken> 30 
 <flittchen> 40 
 <fotze> 40 
@@ -45,7 +45,7 @@
 <möse> 40 
 <muschi> 40 
 <muschi lecken> 80 
-<nackte haut> 10 
+< nackt> 20 60
 <naturgeil> 20 
 <natursekt> 80 
 < nutte> 20 
@@ -56,7 +56,7 @@
 <schwanzfrauen> 80 
 <schwanzlutscher> 80 
 <schwuchtel> 20 
-< schwul> 5 
+#< schwul> 5 
 < seitensprung> 10 
 <sex-date> 60 
 <sex-gier> 40 
@@ -67,14 +67,14 @@
 <swinger> 20 
 <tabulos> 40 
 <tabulosen> 40 
-< tabus > 40 
+#< tabus > 40 
 <titten> 40 
 <transe> 40 
 <transvestit> 40 
-<verdorben> 40 
+#<verdorben> 40 
 <versaute luder> 80 
 <versauten luder> 80 
-< vibrator> 20 
+#< vibrator> 20 
 <von hinten nehmen> 40 
 <von hinten nimmst> 40 
 <votze> 40 
@@ -84,6 +84,9 @@
 <wichser> 40 
 <willige teens> 60 
 <zeigegeil> 20 
-< fotomodell> 20 
-< dessous > 5
+#< fotomodell> 20 
+#< dessous > 5
 
+# negative values
+< ratgeber > -10 -200
+< haushalt> -10 -200
