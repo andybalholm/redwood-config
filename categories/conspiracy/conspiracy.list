@@ -25,16 +25,13 @@
 <test device> 40 
 <lock pick> 40 
 <pick lock> 40 
-<intriguing> 20 
 <occult> 40 
-<phantom> 20 
 <all exposed> 40 
 <invisible empire> 40 
 <alternative news> 40 
 <exposing the lies> 55 
 
 #New world order
-<big brother> 40 
 <one world government> 40 
 <new world order> 40 
 <apocalyp> 40 
@@ -43,12 +40,9 @@
 <control the world> 75 
 
 #Ufo
-< ufo> 40 
 <area 51> 40 
 <alien sight> 40 
 <extraterrestrial> 40 
-<aliens> 40 
-<skywatch> 40 
 <cropcircle> 40 
 <secret base> 40 
 <secret plan> 40 

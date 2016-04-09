@@ -1,10 +1,11 @@
-# Phraselists to block news sites 
+# Phraselists to identify news sites 
 # Originally created by Fernand Jonker
 # Modified by David Burkholder
 
 /news(watch|pap|cast)|herald|sentinel|courier|gazet|tribune|chronicle|(daily|ning)news/ 500
 
 <cnn.com> 10
+< telegraph\.co\.> 50 #allow telegraph adult discussions
 <local news> 30 
 
 <top stories> 40 

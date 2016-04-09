@@ -43,7 +43,7 @@
 < gunpowder > 10 
 < gun range > 15 
 < gunrange > 15 
-< guns > 15 
+< guns > 15 50
 <heat guns> -15
 < gunshop > 15 
 < gunsmith > 15 
@@ -53,7 +53,6 @@
 < handloading > 10 
 < heckler kock > 10 
 < kahr > 10 
-< knife > 15 
 < m16 > 10 
 < mac10 > 10 
 < machine gun > 10 
@@ -65,7 +64,6 @@
 < mossberg > 10 
 < muzzleloader > 10 
 < muzzleloading > 10 
-< nra > 10 
 < ordnance > 10 
 < parkerize > 10 
 < parkerizing > 10 
@@ -105,17 +103,14 @@
 < submachinegun > 15 
 < sub machineguns > 15 
 < submachineguns > 15 
-< sword > 10 
-< swords > 10 
-< tactical > 10 
+< sword > 10 30
+< swords > 10 30
 < tec9 > 10 
 < terroristhandbook > 70 
 < terrorists handbook > 50 
 < uzi > 10 
 < wadcutter > 10 
-< walther > 10 
-< weapon > 15 
-< weapons > 15 
+< weapon> 15 45 
 < winchester > 10 
 < fertilizer bomb > 15 
 < triiodide > 15 
