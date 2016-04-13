@@ -8,6 +8,8 @@ default 500
 /incest|obscene|pedophil|pedofil/
 /(male|m[ae]n|boy|girl|beaut|agen[ct]|glam).*(model|talent)/
 
+/penthouse/
+
 # The following will help to block explicit media files (images and video)
 /anal\b.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /asses.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
@@ -16,7 +18,7 @@ default 500
 /cunt.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /fetish.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /fuck.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
-/hooter.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
+/\bhooter.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /knockers.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /naked.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
 /nude.*(\.jpg|\.wmv|\.mpg|\.mpeg|\.gif|\.mov)/
